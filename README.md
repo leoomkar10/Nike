@@ -5,11 +5,6 @@
 This project features a responsive Nike webpage built using React.js and Tailwind CSS. The webpage showcases Nike's latest products, collections, and promotions, providing an engaging and user-friendly experience.
 
 ![image](https://github.com/user-attachments/assets/9de6d4eb-6a54-4f23-bc0e-a05bf5ebecad)
-![image](https://github.com/user-attachments/assets/ac585937-a465-4ec4-b478-64655d86531f)
-![image](https://github.com/user-attachments/assets/08af8a79-e43d-44fd-8338-02e36ee03a4e)
-![image](https://github.com/user-attachments/assets/e13df988-02a2-4b56-942a-930cb52fcba5)
-
-
 
 ## Features
 
