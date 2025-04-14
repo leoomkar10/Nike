@@ -29,3 +29,6 @@ This project features a responsive Nike webpage built using React.js and Tailwin
 1. Built the React app using the following command:
    ```bash
    npm run build
+2. Uploaded the build files to an S3 bucket configured for static website hosting.
+3. Set up proper bucket permissions and made the site publicly accessible.
+4. Configured a custom domain (optional) and enabled static website hosting features.
